@@ -15,4 +15,4 @@ Github supports [Markdown](https://daringfireball.net/projects/markdown/) which 
 ## Some useful websites
 1. [Calculate the alititude and distance to the moon when giving a coordinate and an observatory position](http://catserver.ing.iac.es/staralt/)  
 
-2. [运动学以及动力学的程序（MgeFit,JAM,VorBin,pPXF,PaFit,LtsFit,LOESS,AdaMet),包含IDL以及python](http://www-astro.physics.ox.ac.uk/%7Emxc/software/)
+2. [星系运动学以及动力学拟合程序（MgeFit,JAM,VorBin,pPXF,PaFit,LtsFit,LOESS,AdaMet),包含IDL以及python](http://www-astro.physics.ox.ac.uk/%7Emxc/software/)
