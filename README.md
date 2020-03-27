@@ -13,6 +13,8 @@ Github supports [Markdown](https://daringfireball.net/projects/markdown/) which 
 **You can put any useful materials about astronomy here, especially your own experience and notes.**
 
 ## Some useful websites
-1. [Calculate the alititude and distance to the moon when giving a coordinate and an observatory position](http://catserver.ing.iac.es/staralt/)  
+1. [Calculate the altitude and distance to the moon when giving a coordinate and an observatory location](http://catserver.ing.iac.es/staralt/)  
 
 2. [星系运动学以及动力学拟合程序（MgeFit,JAM,VorBin,pPXF,PaFit,LtsFit,LOESS,AdaMet),包含IDL以及python](http://www-astro.physics.ox.ac.uk/%7Emxc/software/)
+
+3. [Yang Xiaohu's galaxy groups catalog](http://gax.sjtu.edu.cn/data/Group.html)
