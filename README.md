@@ -45,8 +45,10 @@ Github supports [Markdown](https://daringfireball.net/projects/markdown/) which 
 1. [Linggle](https://www.linggle.com)
 2. [Academic Phrasebank](http://www.phrasebank.manchester.ac.uk)
 
-
-
+### Latex
+1. [插图指南](http://www.ctex.org/documents/latex/graphics/)
+2. [latexdiff](https://github.com/ftilmann/latexdiff/)：Compares two latex files and marks up significant differences between them
+3. [AASTEX, AMS math, and Latex symbols](https://2modf33kux3n19iucb17y5dj-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/aassymbols.pdf)
 
 
 
