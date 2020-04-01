@@ -32,6 +32,7 @@ Github supports [Markdown](https://daringfireball.net/projects/markdown/) which 
 2. [Simbad](http://simbad.u-strasbg.fr/simbad/)
 3. [VizieR](http://vizier.u-strasbg.fr)
 4. [Theoretical Stellar spectra library](http://svo2.cab.inta-csic.es/theory/main/)
+5. [Astronomical Magnitude Systems](http://astroweb.case.edu/ssm/ASTR620/mags.html)
 
 
 ### Tools
